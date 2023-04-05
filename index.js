@@ -4,3 +4,5 @@
 function isAnagrams(str1, str2){
 
 }
+
+module.exports = isAnagrams
